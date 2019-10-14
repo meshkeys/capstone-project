@@ -1,0 +1,17 @@
+body {
+    background: url("/img/capstone-bg.jpg") no-repeat center center fixed;
+    height: 100vh;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin:0.2em;
+}
+.main-body-title {
+    margin: auto;
+    text-align: center;
+    font-size: 2em;
+}
+
+
+
+
