@@ -1,10 +1,10 @@
-body {
-    background: url("/img/capstone-bg.jpg") no-repeat center center fixed;
+.mainbody-class {
+    background: url("./../img/capstone-bg.jpg");
     height: 100vh;
     -webkit-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    margin:0.2em;
+    margin:0.2em; 
 }
 .main-body-title {
     margin: auto;
