@@ -45,7 +45,7 @@ const qandA = [
     answer: "Water",
  },
  {
-    question: "which has less sugaer?",
+    question: "which has less sugar?",
     option: ["Vanilla ice cream", "Vanilla frozen yogurt", "They are about the same"],
     answer: "They are about the same",
  },
