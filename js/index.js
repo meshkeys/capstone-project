@@ -24,8 +24,7 @@ const renderSuccess = () => {
         $('<iframe src="https://giphy.com/embed/26xBKqeFFspRZjDTW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rosewood-fox-tv-26xBKqeFFspRZjDTW">via GIPHY</a></p>').appendTo('.question-option')
     };
     $('.question').text(`You scored ${score}!`);
-    let viewSpace = $('.question-option')
-    gif.appendTo(viewSpace);
+    let viewSpace = $('.question-option');
 }
 const renderQuestion = (qIndex) => {
  let question = selectedQuestion[qIndex];
